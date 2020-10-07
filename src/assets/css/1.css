@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+html,
+body {
+    overflow-x: hidden;
+    background: #F0F2F5;
+    min-width: 1400px;
+    /* position: relative; */
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+/* .card1 .el-form-item__label{
+    width: 100px !important;
+    padding: 0  !important;
+    font-size:13px;
+} */
+
+
+
+
+
+
+

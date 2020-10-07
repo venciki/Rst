@@ -1,0 +1,25 @@
+<template>
+  <div id="app">
+    <router-view></router-view>
+  </div>
+</template>
+
+<script>
+  import navbar from './navbar.vue'
+  export default {
+    name: 'xitong',
+    components:{
+      navbar
+    },
+    data() {
+      return {
+
+      }
+    }
+  }
+
+</script>
+
+<style lang="" scoped>
+
+</style>
